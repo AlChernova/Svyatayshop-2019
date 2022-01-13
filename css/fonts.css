@@ -1,0 +1,58 @@
+/*@import url(https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i&subset=cyrillic,cyrillic-ext);*/
+@font-face {
+    font-family: 'HelveticaNeue';
+    font-display: swap;
+    src: url('../fonts/helveticaneuecyr-roman-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'HelveticaNeue';
+    font-display: swap;
+    src: url('../fonts/HelveticaNeueCyr-Italic.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+}
+/*@font-face {
+    font-family: 'HelveticaNeue';
+    font-display: swap;
+    src: url('../fonts/helveticaneuecyr-ultralight-webfont.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}*/
+@font-face {
+    font-family: 'HelveticaNeue';
+    font-display: swap;
+    src: url('../fonts/helveticaneuecyr-light-webfont.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'HelveticaNeue';
+    font-display: swap;
+    src: url('../fonts/HelveticaNeueCyr-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'HelveticaNeue';
+    font-display: swap;
+    src: url('../fonts/HelveticaNeueCyr-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'HelveticaNeue';
+    font-display: swap;
+    src: url('../fonts/HelveticaNeueCyr-Bold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'HelveticaNeue';
+    font-display: swap;
+    src: url('../fonts/HelveticaNeueCyr-BoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+
